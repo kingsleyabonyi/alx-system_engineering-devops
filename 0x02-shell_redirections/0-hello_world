@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Hello, World'
+cat tail 10 /etc/passwd
